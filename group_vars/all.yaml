@@ -1,4 +1,4 @@
-MONGODB_HOST: mongodb-{{ env }}.lakshmimopidevi.fun # mongodb-dev.daws86s.fun
+MONGODB_HOST: mongodb-{{ env }}.lakshmimopidevi.fun # mongodb-dev.lakshmimopidevi.fun
 REDIS_HOST: redis-{{ env }}.lakshmimopidevi.fun
 CATALOGUE_HOST: catalogue.backend-alb-{{ env }}.lakshmimopidevi.fun
 CART_HOST: cart.backend-alb-{{ env }}.lakshmimopidevi.fun
